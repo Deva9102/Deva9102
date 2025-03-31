@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi there! I'm *Your Name*,  
+Hi there! I'm Devadarshini Pazhanivel Thenmozhi,  
 a passionate developer, AI enthusiast, and cloud practitioner.  
 I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
