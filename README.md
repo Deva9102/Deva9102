@@ -30,8 +30,8 @@
 
 ### 💻 Projects
 
-- ⚖️ [Legal Clause Checker][https://github.com/Deva9102/LegalClauseChecker]
-- 💼 [Candidate Recommendation Engine][https://github.com/Deva9102/candidate_recommendation_engine]
+- ⚖️ [Legal Clause Checker][https://github.com/yourusername/LegalClauseChecker]
+- 💼 [Candidate Recommendation Engine][https://github.com/yourusername/candidate_recommendation_engine]
 - 👶 [Fetal Health Risk Prediction](https://github.com/yourusername/fetal-health-prediction)
 - ⚽ [AI-Powered Sports Highlights Generator](https://github.com/yourusername/sports-highlights-ai)
 - 🦷 [Dental Implant Assessment with CNN & GradCAM](https://github.com/yourusername/dental-implant-ai)
