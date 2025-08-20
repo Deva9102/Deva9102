@@ -15,7 +15,7 @@
 ### About Me
 
 - I'm currently working on an interesting LLM project — more details coming soon!
-- Check on my new projects : [Candidate Recommendation Engine][https://github.com/Deva9102/candidate_recommendation_engine] and [Legal Clause Checker][https://github.com/Deva9102/LegalClauseChecker]
+- Check on my new projects : [Candidate Recommendation Engine](https://github.com/Deva9102/candidate_recommendation_engine) and [Legal Clause Checker](https://github.com/Deva9102/LegalClauseChecker)
 - Research interests: **Deep Learning**, **AI in Healthcare**, **Machine Learning**, **Medical Imaging**.
 - Always learning something new — currently exploring **LLMs** and **Generative Models** !
 - Reach me at: **pazhanivelthenmozh.d@northeastern.edu** 
@@ -30,11 +30,11 @@
 
 ### 💻 Projects
 
-- ⚖️ [Legal Clause Checker][https://github.com/yourusername/LegalClauseChecker]
-- 💼 [Candidate Recommendation Engine][https://github.com/yourusername/candidate_recommendation_engine]
-- 👶 [Fetal Health Risk Prediction](https://github.com/yourusername/fetal-health-prediction)
-- ⚽ [AI-Powered Sports Highlights Generator](https://github.com/yourusername/sports-highlights-ai)
-- 🦷 [Dental Implant Assessment with CNN & GradCAM](https://github.com/yourusername/dental-implant-ai)
+- 💼 [Candidate Recommendation Engine](https://github.com/Deva9102/candidate_recommendation_engine)
+- ⚖️ [Legal Clause Checker](https://github.com/Deva9102/LegalClauseChecker)
+- 👶 [Fetal Health Risk Prediction](https://github.com/Deva9102/fetal-health-prediction)
+- ⚽ [AI-Powered Sports Highlights Generator](https://github.com/Deva9102/sports-highlights-ai)
+- 🦷 [Dental Implant Assessment with CNN & GradCAM](https://github.com/Deva9102/dental-implant-ai)
 
 ---
 
