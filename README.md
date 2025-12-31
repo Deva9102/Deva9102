@@ -84,14 +84,6 @@ I enjoy working at the intersection of **data, models, and systems** — taking 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deva9102&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
 ## 🤝 Let’s Connect
 
 <p align="center">
