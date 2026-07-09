@@ -21,7 +21,7 @@ I enjoy working at the intersection of **data, models, and systems** — taking 
 - 🔍 Interested in **ML systems, LLMs, applied NLP, and data-driven decision systems**
 
 📫 Reach me at: **pazhanivelthenmozh.d@northeastern.edu**  
-🌐 Portfolio: [https://devadarshiniportfolio.netlify.app](https://devadarshiniportfolio.netlify.app)
+🌐 Portfolio: [https://devadarshinipazhanivelthenmozhi.netlify.app](https://devadarshinipazhanivelthenmozhi.netlify.app)
 
 ---
 
